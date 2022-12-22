@@ -27,3 +27,5 @@ dist-ssr
 
 # Storybook
 src/stories
+
+public/favicon.ico
